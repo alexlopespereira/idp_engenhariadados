@@ -4,5 +4,3 @@
 
 # curl --user 'user-api-leitos:aQbLL3ZStaTr38tj' -XPOST "https://elastic-leitos.saude.gov.br/leito_ocupacao/_search?pretty"
 
-
-
