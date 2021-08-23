@@ -1,0 +1,11 @@
+[
+{"type": "INTEGER", "name": "id", "mode": "NULLABLE"},
+{"type": "STRING","name": "name","mode": "NULLABLE"},
+{"type": "INTEGER","name": "followers_count","mode": "NULLABLE"},
+{"type": "INTEGER","name": "friends_count","mode": "NULLABLE"},
+{"type": "INTEGER","name": "listed_count","mode": "NULLABLE"},
+{"type": "INTEGER","name": "favourites_count","mode": "NULLABLE"},
+{"type": "INTEGER","name": "statuses_count","mode": "NULLABLE"},
+{"type": "STRING","name": "created_at","mode": "NULLABLE"},
+{"type": "STRING","name": "text","mode": "NULLABLE"}
+]
